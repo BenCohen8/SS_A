@@ -1,4 +1,4 @@
-CC= gcc
+CC=gcc
 
 all: loops.a recursives.a recursived.so loopd.so mains maindloop maindrec 
 mains: main.o recursives.a
